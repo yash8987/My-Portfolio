@@ -35,7 +35,7 @@ const SocialLinksSmall = () => {
       </ul>
       <ul>
         <li className='flex justify-between items-center rounded-md bg-gray-500'>
-            <a href="https://drive.google.com/file/d/1qjP0WrVDL7zyNHMhRent3l44CMNpwqWe/view?usp=sharing" target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-white'>
+            <a href="https://drive.google.com/file/d/1yJWcfafe70VYLO8lKIChz3jH1JljJ9xu/view" target='_blank' rel="noreferrer" className='flex justify-between items-center w-full text-white'>
                 <>
                     <BsFillPersonLinesFill size={50}/>
                 </>
